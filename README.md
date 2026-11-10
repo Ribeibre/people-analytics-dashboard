@@ -27,6 +27,19 @@ Dataset utilizado para análise de fatores associados ao turnover organizacional
 
 ---
 
+## 📚 Fonte dos Dados
+
+Os dados utilizados neste projeto são provenientes do dataset:
+
+IBM HR Analytics Employee Attrition & Performance
+
+Disponível publicamente no Kaggle para fins educacionais, análise exploratória de dados e desenvolvimento de projetos de People Analytics.
+
+Fonte:
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+---
+
 ## 📊 Principais Métricas
 
 | Indicador | Valor |

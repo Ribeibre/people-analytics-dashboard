@@ -73,12 +73,23 @@ Colaboradores desligados apresentam remuneração média aproximadamente 30% inf
 ## 🏗 Estrutura do Projeto
 
 ```text
-Portifolio/
+people-analytics-dashboard/
 
 ├── README.md
 ├── resumo_executivo.png
-├── fatores_turnover.png.png
+├── fatores_turnover.png
 ```
+
+---
+
+## 📷 Dashboard Preview
+
+O projeto foi desenvolvido em Power BI e dividido em duas páginas:
+
+- Resumo Executivo
+- Fatores Associados ao Turnover
+
+As visualizações permitem identificar padrões relacionados a desligamentos, satisfação, equilíbrio vida-trabalho, remuneração e horas extras.
 
 ---
 

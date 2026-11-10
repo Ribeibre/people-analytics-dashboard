@@ -62,11 +62,11 @@ Colaboradores desligados apresentam remuneração média aproximadamente 30% inf
 
 ### Resumo Executivo
 
-resumo_executivo.png
+![Resumo Executivo](resumo_executivo.png)
 
 ### Fatores Associados ao Turnover
 
-fatores_turnover.png.png
+![Fatores Associados ao Turnover](fatores_turnover.png.png)
 
 ---
 

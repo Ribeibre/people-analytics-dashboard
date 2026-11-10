@@ -21,11 +21,9 @@ A análise foi desenvolvida com Python, SQLite, SQL e Power BI, transformando da
 
 ## 📂 Dataset
 
-**IBM HR Analytics Employee Attrition & Performance**
+IBM HR Analytics Employee Attrition & Performance
 
-Dataset utilizado para análise de fatores associados ao turnover organizacional.
-
----
+Dataset amplamente utilizado em projetos de People Analytics para estudo de fatores relacionados ao turnover organizacional.
 
 ## 📚 Fonte dos Dados
 

@@ -1,56 +1,89 @@
-People Analytics Dashboard
-Objetivo
-Este projeto tem como objetivo identificar fatores associados ao turnover de colaboradores por meio de técnicas de análise de dados, SQL e Business Intelligence.
+# People Analytics Dashboard
 
-A análise foi desenvolvida utilizando Python, SQLite, SQL e Power BI, com foco na transformação de dados em insights estratégicos para apoiar decisões relacionadas à retenção de talentos.
+## 📌 Objetivo
 
-Tecnologias Utilizadas
-Python
-Pandas
-SQLite
-SQL
-Power BI
-DAX
-Dataset
-Base utilizada:
+Este projeto tem como objetivo identificar fatores associados ao turnover de colaboradores utilizando técnicas de análise de dados, SQL e Business Intelligence.
 
-IBM HR Analytics Employee Attrition & Performance
+A análise foi desenvolvida com Python, SQLite, SQL e Power BI, transformando dados em insights estratégicos para apoiar decisões relacionadas à retenção de talentos.
 
-Principais Métricas
-Total de Funcionários: 1.470
-Total de Desligamentos: 237
-Taxa de Turnover: 16,12%
-Salário Médio: R$ 6.503
-Principais Insights
-Horas Extras
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- Python
+- Pandas
+- SQLite
+- SQL
+- Power BI
+- DAX
+
+---
+
+## 📂 Dataset
+
+**IBM HR Analytics Employee Attrition & Performance**
+
+Dataset utilizado para análise de fatores associados ao turnover organizacional.
+
+---
+
+## 📊 Principais Métricas
+
+| Indicador | Valor |
+|------------|---------|
+| Total de Funcionários | 1.470 |
+| Total de Desligamentos | 237 |
+| Taxa de Turnover | 16,12% |
+| Salário Médio | R$ 6.503 |
+
+---
+
+## 🔍 Principais Insights
+
+### Horas Extras
+
 Funcionários que realizam horas extras apresentam taxa de turnover de 30,5%, quase três vezes superior aos demais colaboradores.
 
-Satisfação
+### Satisfação
+
 Colaboradores com baixa satisfação registram turnover de 22,8%, enquanto colaboradores mais satisfeitos apresentam apenas 11,3%.
 
-Work-Life Balance
+### Work-Life Balance
+
 Funcionários com menor equilíbrio entre vida pessoal e profissional apresentam a maior taxa de turnover da organização.
 
-Remuneração
+### Remuneração
+
 Colaboradores desligados apresentam remuneração média aproximadamente 30% inferior à observada entre funcionários ativos.
 
-Dashboard
-Resumo Executivo
-Inserir imagem resumo_executivo.png
+---
 
-Fatores Associados ao Turnover
-Inserir imagem fatores_turnover.png
+## 📈 Dashboard
 
-Estrutura do Projeto
-people-analytics-dashboard/
+### Resumo Executivo
 
-├── images/
-├── notebook/
-├── powerbi/
-├── sql/
-├── requirements.txt
-└── README.md
-Conclusão
+resumo_executivo.png
+
+### Fatores Associados ao Turnover
+
+fatores_turnover.png.png
+
+---
+
+## 🏗 Estrutura do Projeto
+
+```text
+Portifolio/
+
+├── README.md
+├── resumo_executivo.png
+├── fatores_turnover.png.png
+```
+
+---
+
+## ✅ Conclusão
+
 Os resultados demonstram que fatores como horas extras, satisfação, equilíbrio entre vida pessoal e profissional e remuneração estão associados a diferentes níveis de turnover dentro da organização.
 
-O projeto demonstra a aplicação integrada de Python, SQL e Power BI para transformação de dados em informação útil para tomada de decisão.
+O projeto demonstra a aplicação integrada de Python, SQL e Power BI para transformar dados em informações relevantes para tomada de decisão.
